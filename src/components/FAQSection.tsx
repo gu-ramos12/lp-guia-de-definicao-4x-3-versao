@@ -7,16 +7,12 @@ const faqs = [
     answer: "Você recebe o acesso imediatamente por e-mail assim que o pagamento é confirmado."
   },
   {
-    question: "Preciso de academia?",
-    answer: "Não. Há versões para academia e para casa, com ou sem equipamentos."
-  },
-  {
     question: "Em quanto tempo vejo resultados?",
-    answer: "Muitos alunos relatam mudanças em poucas semanas. O ritmo varia conforme perfil e adesão."
+    answer: "Com este método consolidado, nossos pacientes relatam mudanças em poucas semanas. O ritmo varia conforme perfil e adesão."
   },
   {
     question: "Para quem é?",
-    answer: "Para adultos que buscam definição muscular com treinos curtos e orientação prática de alimentação."
+    answer: "Para adultos que buscam definição muscular e orientação prática de alimentação."
   },
   {
     question: "Para quem não é?",
