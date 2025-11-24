@@ -10,7 +10,7 @@ const features = [
   "Sugestões de cardápios simples e acessíveis",
   "Calculadora TMB com videoaula de como utilizar para estimar seu gasto energético",
   "Suporte para dúvidas pela plataforma do guia",
-  "1 ano de acesso completo a todo o conteúdo"
+  "1 ano de acesso ao conteúdo"
 ];
 
 const bonuses = [
