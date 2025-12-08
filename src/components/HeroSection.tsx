@@ -23,7 +23,7 @@ export function HeroSection() {
           
           <div className="space-y-6">
             <p className="text-3xl md:text-4xl font-bold text-white leading-tight">
-              Dê adeus a sua barriga e conquiste<span className="text-green-400">abdômen definido</span> que sempre sonhou
+              Dê adeus a sua barriga e conquist o<span className="text-green-400"> abdômen definido</span> que sempre sonhou
             </p>
             <p className="text-xl text-gray-300 leading-relaxed max-w-3xl mx-auto">
               O método aplicado e comprovado que já transformou <span className="text-green-400">+1000 vidas</span> e vai revolucionar seus resultados de forma definitiva.
