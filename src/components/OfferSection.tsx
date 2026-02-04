@@ -6,7 +6,7 @@ import { CountdownTimer } from './CountdownTimer';
 
 const features = [
   "7 módulos de Videoaulas práticas e rápidas, com dicas valiosas para você destravar o seu emagrecimento e definição",
-  "Protocolo Abdômen de Ferro, com videoaulas dos exercícios para te guiar no desafio",
+  "Protocolo Abdômen de Ferro, com videoaulas dos exercícios para guiar seus treinos",
   "Sugestões de cardápios simples e acessíveis",
   "Calculadora TMB com videoaula de como utilizar para estimar seu gasto energético",
   "Suporte para dúvidas pela plataforma do guia",
