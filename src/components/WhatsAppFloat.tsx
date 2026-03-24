@@ -1,7 +1,7 @@
 export function WhatsAppFloat() {
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent("Olá! Tenho interesse no Guia de Definição 4X");
-    const whatsappUrl = `https://wa.me/5519992971195?text=${message}`;
+    const whatsappUrl = `https://wa.me/5519999999999?text=${message}`;
     window.open(whatsappUrl, '_blank');
   };
 
