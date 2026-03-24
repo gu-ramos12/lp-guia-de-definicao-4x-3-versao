@@ -15,7 +15,7 @@ const features = [
 const bonuses = [
   "🎁 BÔNUS 1: Guia de Suplementação (Valor: R$ 87)",
   "🎁 BÔNUS 2: Receitas Fit (Valor: R$ 67)",
-  "🎁 BÔNUS 3: Lista de Compras Otimizada (Valor: R$ 37)",
+  "🎁 BÔNUS 3: Lista de Compras Inteligente (Valor: R$ 37)",
   "🎁 BÔNUS 4: Lista de substituição pra alimentos e bebidas (Valor: R$ 37)"
 ];
 
