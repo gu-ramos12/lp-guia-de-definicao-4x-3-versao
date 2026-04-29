@@ -74,7 +74,7 @@ export function OfferSection() {
                     <CountdownTimer />
                     
                     <div className="text-center">
-                      <div className="text-gray-400 line-through text-xl sm:text-2xl mb-2">R$ 338,00</div>
+                      <div className="text-gray-400 line-through text-xl sm:text-2xl mb-2">R$ 407,00</div>
                       <div className="text-3xl sm:text-4xl font-bold text-green-400 mb-2">
                         R$ 147<span className="text-base sm:text-lg">,00</span>
                       </div>
