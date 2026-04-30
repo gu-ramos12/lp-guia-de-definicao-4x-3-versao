@@ -5,7 +5,7 @@ import { CheckCircle, Shield, Gift } from 'lucide-react';
 import { CountdownTimer } from './CountdownTimer';
 
 const features = [
-  "7 módulos de Videoaulas práticas e rápidas, com dicas valiosas para você destravar o seu emagrecimento e definição",
+  "7 módulos de Videoaulas práticas e rápidas, com as estratégias corretas para você destravar o seu emagrecimento e definição",
   "Protocolo Abdômen de Ferro, com videoaulas dos exercícios para te guiar no desafio",
   "Sugestões de cardápios simples e acessíveis",
   "Calculadora TMB com videoaula de como utilizar para estimar seu gasto energético",
