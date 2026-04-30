@@ -16,7 +16,7 @@ const steps = [
   {
     letter: "H",
     title: "Hipertrofiar",
-    description: "Passo a passo para conquistar o abdômen definido que sempre sonhou"
+    description: "Protocolo para você conquistar o abdômen definido que sempre sonhou"
   },
   {
     letter: "Q",
