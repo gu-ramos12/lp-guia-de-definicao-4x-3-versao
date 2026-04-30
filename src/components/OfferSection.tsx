@@ -76,9 +76,9 @@ export function OfferSection() {
                     <div className="text-center">
                       <div className="text-gray-400 line-through text-xl sm:text-2xl mb-2">R$ 407,00</div>
                       <div className="text-3xl sm:text-4xl font-bold text-green-400 mb-2">
-                        R$ 147<span className="text-base sm:text-lg">,00</span>
+                        12 x R$ 13,<span className="text-base sm:text-lg">,90</span>
                       </div>
-                      <div className="text-green-400 text-lg sm:text-xl">Você economiza R$ 191,00 (≈56%)</div>
+                      <div className="text-green-400 text-lg sm:text-xl">à vista R$ 147,00 (≈56%)</div>
                       <div className="text-xs sm:text-sm text-gray-300 mt-2">
                         Produto + Bônus Exclusivos
                       </div>
@@ -92,7 +92,7 @@ export function OfferSection() {
                       
                       <div className="flex items-center space-x-2 sm:space-x-3 p-2.5 sm:p-3 bg-green-500/20 rounded-lg">
                         <Gift className="w-4 h-4 sm:w-5 sm:h-5 text-green-400 flex-shrink-0" />
-                        <span className="text-xs sm:text-sm">Bônus no valor de R$ 191</span>
+                        <span className="text-xs sm:text-sm">Bônus no valor de R$ 228,00</span>
                       </div>
                     </div>
                     
