@@ -76,7 +76,7 @@ export function OfferSection() {
                     <div className="text-center">
                       <div className="text-gray-400 line-through text-xl sm:text-2xl mb-2">R$ 407,00</div>
                       <div className="text-3xl sm:text-4xl font-bold text-green-400 mb-2">
-                        12 x R$ 13,<span className="text-base sm:text-lg">,90</span>
+                        12 x R$ 13,90<span className="text-base sm:text-lg">
                       </div>
                       <div className="text-green-400 text-lg sm:text-xl">à vista R$ 147,00 (≈56%)</div>
                       <div className="text-xs sm:text-sm text-gray-300 mt-2">
