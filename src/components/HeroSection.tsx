@@ -21,7 +21,7 @@ export function HeroSection() {
           
           <div className="space-y-4 md:space-y-6">
             <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white leading-tight px-2">
-              Acelere seu emagrecimento e conquiste o <span className="text-green-400">abdômen definido</span> que sempre sonhou
+              Acelere seu emagrecimento e elimine a <span className="text-green-400">barriga</span> que te incomoda
             </p>
             <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed max-w-3xl mx-auto px-2">
               O método aplicado e comprovado que já transformou <span className="text-green-400">+1000 vidas</span> e vai revolucionar seus resultados de forma definitiva.
