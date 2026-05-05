@@ -36,7 +36,7 @@ export function Footer() {
         
         <div className="flex flex-col md:flex-row justify-between items-center space-y-3 md:space-y-0">
           <div className="text-gray-400 text-xs sm:text-sm text-center md:text-left">
-            © 2025 Rodrigo Brasileiro Team. Todos os direitos reservados.
+            © 2026 Rodrigo Brasileiro Team. Todos os direitos reservados.
           </div>
           
           <div className="flex flex-wrap justify-center gap-4 sm:gap-6 text-xs sm:text-sm text-gray-400">
