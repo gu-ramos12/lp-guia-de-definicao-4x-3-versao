@@ -25,7 +25,7 @@ const faqs = [
   },
   {
     question: "Existe garantia?",
-    answer: "Sim, garantia de 7 dias. Se não curtir, pedimos o reembolso."
+    answer: "Sim, garantia de 7 dias. Se não fizer sentido para você, é só pedir reembolso pela plataforma."
   },
   {
     question: "Quais formas de pagamento?",
