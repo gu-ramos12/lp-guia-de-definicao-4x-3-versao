@@ -16,10 +16,6 @@ const faqs = [
     answer: "Para adultos que buscam definição muscular com treinos curtos e orientação prática de alimentação."
   },
   {
-    question: "Para quem não é?",
-    answer: "Não é para quem já está satisfeito com o que vê no espelho"
-  },
-  {
     question: "Tem suporte para dúvidas sobre o guia?",
     answer: "Sim. Você tem suporte para dúvidas diretamente na plataforma."
   },
